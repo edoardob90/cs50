@@ -1,0 +1,6 @@
+[submodule "libcs50"]
+	path = libcs50
+	url = https://github.com/cs50/libcs50.git
+[submodule "check50"]
+	path = check50
+	url = https://github.com/cs50/check50.git
